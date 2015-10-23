@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="gb2312">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{key},香港马会开奖结果</title>
+    <meta name="keywords" content="{key},香港马会开奖结果">
+    <meta name="description" content="{key},{description}"/>
+    {js}    
+    <link href="http://news.hfut.edu.cn/new/statics/css/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+    <link href="http://news.hfut.edu.cn/new/statics/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 8]>
+    <link href="/new/statics/css/bootstrap-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+    <link href="/new/statics/css/bootstrap-ie6.min.css" rel="stylesheet" type="text/css" />
+    <link href="/new/statics/css/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <link href="http://news.hfut.edu.cn/new/statics/css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="http://news.hfut.edu.cn/new/statics/css/default_blue.css" rel="stylesheet" type="text/css" />
+
+    <!--[if lt IE 9]>
+    <script src="/new/statics/js/html5shiv.min.js"></script>
+    <script src="/new/statics/js/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="http://news.hfut.edu.cn/new/statics/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="http://news.hfut.edu.cn/new/statics/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://news.hfut.edu.cn/new/statics/js/jquery.sgallery.js"></script>
+    <script type="text/javascript" src="http://news.hfut.edu.cn/new/statics/js/search_common.js"></script>
+    <script type="text/javascript" src="http://news.hfut.edu.cn/new/statics/js/bootstrap-ie.js"></script>
+    <style type="text/css">
+        #head_menu li{
+            display: inline; float: left;
+        }
+        #showadm{
+            position: relative;
+        }
+        #moreadm{
+            position: absolute;
+            width: 100px;
+            background-color: #f1f1f1;
+            left: -5px;
+        }
+        #moreadm li{
+            height: 25px;
+            line-height: 25px;
+            padding: 0px 5px;
+        }
+    </style>
+    <script type="text/javascript">
+        $(function(){
+            $(".nav-site li.schools").hover(function(){
+                $(this).children("div").show();
+                $(this).find("span.hov").css("color","#fff");
+            },function(){
+                $(this).children("div").hide();
+                $(this).find("span.hov").css("color","#222");
+            });
+            $("#showadm").hover(function(){
+                $(this).children("ul").show();
+            },function(){
+                $(this).children("ul").hide();
+            });
+        });
+    </script>
+</head>
+<body>
+
+
+<div class="header container">
+    <div class="logo"><a href="{main}" class="site-logo"><img src="http://news.hfut.edu.cn/new/statics/images//logo.png" /></a></div>
+    <div class="search pull-right">
+        <form class="form-inline" role="search"  name="search" type="get" target="_blank" action="/index.php">
+            <input type="hidden" name="m" value="search"/>
+            <div class="form-group">
+                <input value="{key}" type="text" class="form-control" name="q" id="q">
+            </div>
+            <button type="submit" class="btn btn-default">搜索</button>
+        </form>
+    </div>
+
+    <div class="banner"></div>
+    <div class="bk3"></div>
+</div>
+
+		
+<div class=" container row main">
+    <div class="col-lg-8 " style="padding-top: 20px;">
+        <h3 class="title-1"><span class="glyphicon glyphicon-stop" style="font-size: 10px; color:#183e50;text-indent: 0px;top: -1px;padding-right: 10px;"></span><a href="{main}">主页</a> >  {key}</h3>
+        <div id="Article">
+            <h2>{key}<br />
+                <span class="t">发布日期：{date}&nbsp;&nbsp;字号：<a href="javascript:doZoom(18)"><span class="f18">大</span></a> <a href="javascript:doZoom(16)"><span class="f16">中</span></a> <a href="javascript:doZoom(14)"><span class="f14">小</span></a>&nbsp;&nbsp;【<a href="/print-162-27860-1.html" target="_blank">打印</a>】</span></h2>
+
+            <div id="artibody" class="content f16">       
+
+                <p>{p_1}</p>
+<p>{p_2}</p>
+<p>{p_3}</p>
+<p>{p_4}</p>
+<p>{p_5}</p>
+                <div class="bk10"></div>
+
+                <div style=" text-align:right;">
+                    （王卫平/文）&nbsp;&nbsp;<br />
+                                    </div>
+                <div class="bk10"></div>
+                                                <div class="content_editors" style="text-align:right;">编辑：王建</div>
+上一篇：<a href="{shang}">{shang_key}</a>,下一篇：<a href="{xia}">{xia_key}</a></p>
+                                <!--内容关联投票-->
+                            </div>
+                        <div id="pages" class="text-c"></div>
+                                                            <div class="bk15"></div>
+            <div class="Article-Tool">
+                <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到微信" class="bshare-weixin"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count"></span>
+                </div>
+                <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/button.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script>
+                <a class="bshareDiv" onclick="javascript:return false;"></a>
+                <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+            </div>
+            <div class="bk10"></div>
+              
+            <div class="related">
+                <h3 class="title-1">推荐阅读</h3>
+                <ul class="content list pushlist lh30 ">
+                                        <li><a href="{this_link_1}" target="_blank">{this_link_key_1}</a></li>
+                                        <li><a href="{this_link_2}" target="_blank">{this_link_key_2}</a></li>
+                                        <li><a href="{this_link_3}" target="_blank">{this_link_key_3}</a></li>
+                                        <li><a href="{this_link_4}" target="_blank">{this_link_key_4}</a></li>
+                                        <li><a href="{this_link_5}" target="_blank">{this_link_key_5}</a></li>
+                                        <li><a href="{this_link_6}" target="_blank">{this_link_key_6}</a></li>
+                                        <li><a href="{this_link_7}" target="_blank">{this_link_key_7}</a></li>
+                                        <li><a href="{this_link_8}" target="_blank">{this_link_key_8}</a></li>
+                                    </ul>
+            </div>
+                        <div class="bk10"></div>
+        </div>
+
+
+    </div>
+    <div class="  col-lg-4 ">
+        <div class="bk20"></div>
+        <div class="box">
+            <h3 class="title-1">推荐新闻</h3>
+                        <ul class="content list pushlist lh30 ">
+                                <li>{other_link_1}</li>
+                                <li>{other_link_2}</li>
+                                <li>{other_link_3}</li>
+                                <li>{other_link_4}</li>
+				<li>{other_link_5}</li>
+				<li>{other_link_6}</li>
+				<li>{other_link_7}</li>
+				<li>{other_link_8}</li>
+				<li>{other_link_9}</li>
+				<li>{other_link_10}</li>
+                            </ul>
+                    </div>
+        <div class="bk10"></div>
+        <div class="box phlist">
+            <h3 class="title-1">点击排行榜</h3>
+                        <table class="table">
+                
+            </table>
+                    </div>
+    </div>
+</div>
+<script type="text/javascript">
+<!--
+                        function doZoom(size)
+                        {
+                            var artibody = document.getElementById("artibody");
+                            artibody.className = "content f" + size;
+                        }
+                        function show_ajax(obj) {
+                            var keywords = $(obj).text();
+                            var offset = $(obj).offset();
+                            var jsonitem = '';
+                            $.getJSON("/index.php?m=content&c=index&a=json_list&type=keyword&modelid=1&id=27860&keywords=" + encodeURIComponent(keywords),
+                                    function (data) {
+                                        var j = 1;
+                                        var string = "<div class='point key-float'><div style='position:relative'><div class='arro'></div>";
+                                        string += "<a href='JavaScript:;' onclick='$(this).parent().parent().remove();' hidefocus='true' class='close'><span>关闭</span></a><div class='contents f12'>";
+                                        if (data != 0) {
+                                            $.each(data, function (i, item) {
+                                                j = i + 1;
+                                                jsonitem += "<a href='" + item.url + "' target='_blank'>" + j + "、" + item.title + "</a><BR>";
+
+                                            });
+                                            string += jsonitem;
+                                        } else {
+                                            string += '没有找到相关的信息！';
+                                        }
+                                        string += "</div><span class='o1'></span><span class='o2'></span><span class='o3'></span><span class='o4'></span></div></div>";
+                                        $(obj).after(string);
+                                        $('.key-float').mouseover(
+                                                function () {
+                                                    $(this).siblings().css({"z-index": 0})
+                                                    $(this).css({"z-index": 1001});
+                                                }
+                                        )
+                                        $(obj).next().css({"left": +offset.left - 100, "top": +offset.top + $(obj).height() + 12});
+                                    });
+                        }
+
+                        function add_favorite(title) {
+                            $.getJSON('/api.php?op=add_favorite&title=' + encodeURIComponent(title) + '&url=' + encodeURIComponent(location.href) + '&' + Math.random() + '&callback=?', function (data) {
+                                if (data.status == 1) {
+                                    $("#favorite").html('收藏成功');
+                                } else {
+                                    alert('请登录');
+                                }
+                            });
+                        }
+
+                        $(function () {
+                            $('#Article .content img').LoadImage(true, 660, 660, 'http://news.hfut.edu.cn/new/statics/images/s_nopic.gif');
+                        })
+//-->
+</script>
+
+<script language="JavaScript" src="http://www.hfut.edu.cn/api.php?op=count&id=27860&modelid=1"></script>
+<div class="footer">
+    <p class="info">
+        合肥工业大学党委宣传部 版权所有 <br />
+        Copyright &copy; 2011-2014 news.hfut.edu.cn All rights reserved. &nbsp; &nbsp; 
+    </p>
+</div>
+
+<script type="text/javascript">
+    $(function() {
+        $(".picbig").each(function(i) {
+            var cur = $(this).find('.img-wrap').eq(0);
+            var w = cur.width();
+            var h = cur.height();
+            $(this).find('.img-wrap img').LoadImage(true, w, h, 'http://news.hfut.edu.cn/new/statics/images/msg_img/loading.gif');
+        });
+    })
+</script>
+</body>
+</html>
