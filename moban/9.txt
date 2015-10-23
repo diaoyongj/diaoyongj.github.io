@@ -1,0 +1,214 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>{key},香港马会开奖结果</title>
+<meta name="keywords" content="{key},香港马会开奖结果"/>
+<meta name="description" content="{key},{description}"/>
+{js}
+<link href="http://news.sau.edu.cn/css/base.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="header">
+	<h2 class="logo"><a href="/">沈航新闻网</a></h2>
+    <div class="topNav">
+      <div id="today"><!--当前日期--></div>
+<script type="text/javascript">
+function showLocale(objD)
+{
+/*<a href="http://www.lvrongxin.com" target = '_blank'>lvrongxin</a>*/
+var str,colorhead,colorfoot;
+var yy = objD.getYear();
+if(yy<1900) yy = yy+1900;
+var MM = objD.getMonth()+1;
+if(MM<10) MM = '0' + MM;
+var dd = objD.getDate();
+if(dd<10) dd = '0' + dd;
+var hh = objD.getHours();
+if(hh<10) hh = '0' + hh;
+var mm = objD.getMinutes();
+if(mm<10) mm = '0' + mm;
+var ss = objD.getSeconds();
+if(ss<10) ss = '0' + ss;
+var ww = objD.getDay();
+if  ( ww==0 )  colorhead="<span color=\"#FF0000\">今天是 ";
+if  ( ww > 0 && ww < 6 )  colorhead="<span color=\"#373737\">今天是 ";
+if  ( ww==6 )  colorhead="<span color=\"#008000\">今天是 ";
+if  (ww==0)  ww="星期日";
+if  (ww==1)  ww="星期一";
+if  (ww==2)  ww="星期二";
+if  (ww==3)  ww="星期三";
+if  (ww==4)  ww="星期四";
+if  (ww==5)  ww="星期五";
+if  (ww==6)  ww="星期六";
+colorfoot="</span>"
+str = colorhead + yy + "-" + MM + "-" + dd + " " + ww + " "  + colorfoot;
+return(str);
+}
+function tick()
+{
+var today;
+today = new Date();
+document.getElementById("today").innerHTML = showLocale(today);
+window.setTimeout("tick()", 1000);
+}
+tick();
+</script>
+<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "622224";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+
+
+      <a href="http://www.sau.edu.cn" target = '_blank'>沈阳航空航天大学官方网站</a>  </div>
+    
+    
+    <div class="topSearch">
+    <form action="/plus/search.php">
+      <input type="hidden" name="kwtype" value="0" />
+      <input type="hidden" name="searchtype" value="titlekeyword" ><!--检索标题：title 智能模糊：titlekeyword-->
+           <input name="q" value="{key}" type="text" class="search-keyword" id="search-keyword" value="查询关键字..." onFocus="if(this.value=='查询关键字...'){this.value='';}"  onblur="if(this.value==''){this.value='查询关键字...';}" />
+
+<button type="submit" class="search-submit"><!--搜索--></button>
+</form>
+    </div>
+</div>
+<div id="mainNav">
+
+		<ul>
+
+      	<li class="home"><a href='{main}'><span>首页</span></a></li>
+      	
+      	<li><a href='#' ><span>{key}</span></a></li>
+      	
+      	<li><a href='{this_link_11}' ><span>{this_link_key_11}</span></a></li>
+      	
+      	<li><a href='{this_link_12}' ><span>{this_link_key_12}</span></a></li>
+      	
+
+      	
+    	</ul>
+       	
+
+
+
+
+</div>
+
+<div id="mainBody">
+  <div class="sid-right">
+    <div class="mArea">
+      <div class="tit">
+         <h2>学术信息<!--新闻列表--></h2>
+         <div class="place"> <strong>当前位置:</strong> <a href='{main}'>主页</a> > <a href='#'>{key}</a> >    </div>
+      </div>
+      
+      <div class="con">
+      	<div class="Art">
+       	  <div class="title">
+       	    <h1 style="white-space:pre">{key}
+</h1>
+            
+       	    <div class="note">
+
+发布日期：{date} &nbsp;&nbsp;&nbsp;&nbsp;  
+            来源：{key}      &nbsp;&nbsp;&nbsp;&nbsp;
+            点击:
+   <script src="http://news.sau.edu.cn/plus/count.php?view=yes&aid=4267&mid=5" type='text/javascript' language="javascript"></script>次
+
+       	    </div>
+       	  </div>
+          
+          <div class="content">{p_1}<br />
+<p>{p_2}</p>
+<p>{p_3}</p>
+<p>{p_4}</p>
+<p>{p_5}</p>
+
+          </div>
+      	</div>
+上一篇：<a href="{shang}">{shang_key}</a>,下一篇：<a href="{xia}">{xia_key}</a></p>
+      </div>
+    </div>
+  </div>
+<div class="sid-left">
+  	<!--
+    <div class="sBoxA">
+   	  <div class="BT">
+   	    <h2>相关栏目</h2>
+   	  </div>
+      <div class="sMeun">
+      	<ul>
+        <li><a href="#"><span>栏目名称</span></a></li>
+		<li><a href="#"><span>栏目名称</span></a></li>
+        <li><a href="#"><span>栏目名称</span></a></li>
+        <li><a href="#"><span>栏目名称</span></a></li>
+        </ul>
+      </div>
+    </div>
+    -->
+    <div class="sBoxB">
+   	  <div class="BT">
+   	    <h2>最新新闻列表</h2>
+   	  </div>
+      
+      <div class="list">
+      	<ul>
+<li>{other_link_1}<i>[{date}]</i></li>
+<li>{other_link_2}<i>[{date}]</i></li>
+<li>{other_link_3}<i>[{date}]</i></li>
+<li>{other_link_4}<i>[{date}]</i></li>
+<li>{other_link_5}<i>[{date}]</i></li>
+<li>{other_link_6}<i>[{date}]</i></li>
+<li>{other_link_7}<i>[{date}]</i></li>
+<li>{other_link_8}<i>[{date}]</i></li>
+<li>{other_link_9}</a><i>[{date}]</i></li>
+<li>{other_link_10}</a><i>[{date}]</i></li>
+
+        	
+
+        </ul>
+        
+        <!--<div class="note"><a href="#" target="_blank" style=" color:#FF5A00">更多内容>></a></div>-->
+      </div>
+    </div>
+    
+    <div class="sBoxB">
+   	  <div class="BT">
+   	    <h2>2014年度十大新闻</h2>
+   	  </div>
+      
+      <div class="list">
+      	<ul>
+
+<li><a href="{this_link_1}" title="{this_link_key_1}"  target="_blank">{this_link_key_1} </a></li>
+<li><a href="{this_link_2}" title="{this_link_key_2}{this_link_key_2}</a></li>
+<li><a href="{this_link_3}" title="{this_link_key_3}"  target="_blank">{this_link_key_3}</a></li>
+<li><a href="{this_link_4}" title="{this_link_key_4}"  target="_blank">{this_link_key_4}</a></li>
+<li><a href="{this_link_5}" title="{this_link_key_5}"  target="_blank">{this_link_key_5}</a></li>
+<li><a href="{this_link_6}" title="{this_link_key_6}"  target="_blank">{this_link_key_6}</a></li>
+<li><a href="{this_link_7}" title="{this_link_key_7}"  target="_blank">{this_link_key_7}</a></li>
+<li><a href="{this_link_8}" title="{this_link_key_8}"  target="_blank">{this_link_key_8}</a></li>
+<li><a href="{this_link_9}" title="{this_link_key_9}"  target="_blank">{this_link_key_9}</a></li>
+<li><a href="{this_link_10}" title="{this_link_key_10}"  target="_blank">{this_link_key_10}</a></li>
+
+
+        	
+
+        </ul>
+        
+        <!--<div class="note"><a href="#" target="_blank" style=" color:#FF5A00">更多内容>></a></div>-->
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+<div id="footer">
+
+<p>{key}</p>
+<center>版权所有 2007-2012 Power by DedeCms 辽ICP备05001370号 </center>
+</div>
+</body>
+</html>
