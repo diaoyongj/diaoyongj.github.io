@@ -1,0 +1,1024 @@
+<!DOCTYPE HTML>
+<html>
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+        <title>	
+		更多综合天下彩,{main_key_73},尽在{main}！
+        </title>
+        <meta name="keywords" content="天下彩,{main_key_73},{main_key_74},{main_key_75}"/>
+        <meta name="description" content="{main_key_73},{main_key_74},{main_key_75},最新资讯尽在{main}"/>
+        <link type="text/css" rel="stylesheet" href="http://www.114la.com/static/page/rebuild/css/style.css"/>
+        
+        <base target="_blank" />
+    </head>
+    
+    <body>
+        <div id="top">
+            <div class="wrapper">
+                <div class="fl">
+                    <a href="{main}">
+                        首页
+                    </a>
+                    <a href="{main_link_1}">
+                        {main_key_1}
+                    </a>
+                    <a href="{main_link_2}">
+                        {main_key_2}
+                    </a>
+                    <a href="{main_link_3}">
+                        {main_key_3}
+                    </a>
+                    <a href="{main_link_4}">
+                        {main_key_4}
+                    </a>
+
+
+                </div>
+               
+            </div>
+        </div>
+        <div class="wrapper">
+            <div class="categorys">
+                <dl>
+                    <dt>
+                        娱乐
+                    </dt>
+                    <dd>
+                        <a href="{main_link_5}">
+                            {main_key_5}
+                        </a>
+                        <a href="{main_link_6}">
+                            {main_key_6}
+                        </a>
+                        <a href="{main_link_7}">
+                            {main_key_7}
+                        </a>
+                        <a href="{main_link_8}">
+                            {main_key_8}
+                        </a>
+                        <a href="{main_link_9}">
+                            {main_key_9}
+                        </a>
+                        <a href="{main_link_10}">
+                            {main_key_10}
+                        </a>
+                        <a href="{main_link_11}">
+                            {main_key_11}
+                        </a>
+                        <a href="{main_link_12}">
+                            {main_key_12}
+                        </a>
+                        <a href="{main_link_13}">
+                            {main_key_13}
+                        </a>
+                        <a href="{main_link_14}">
+                            {main_key_14}
+                        </a>
+                        <a href="{main_link_15}">
+                            {main_key_15}
+                        </a>
+                        <a href="{main_link_16}">
+                            {main_key_16}
+                        </a>
+                        <a href="{main_link_17}">
+                            {main_key_17}
+                        </a>
+                        <a href="{main_link_18}">
+                            {main_key_18}
+                        </a>
+                        <a href="{main_link_19}">
+                            {main_key_19}
+                        </a>
+                    </dd>
+                    <dt>
+                        生活
+                    </dt>
+                    <dd>
+                        <a href="{main_link_21}">
+                            {main_key_21}
+                        </a>
+                        <a href="{main_link_22}">
+                            {main_key_22}
+                        </a>
+                        <a href="{main_link_23}">
+                            {main_key_23}
+                        </a>
+                        <a href="{main_link_24}">
+                            {main_key_24}
+                        </a>
+                        <a href="{main_link_25}">
+                            {main_key_25}
+                        </a>
+                        <a href="{main_link_26}">
+                            {main_key_26}
+                        </a>
+                        <a href="{main_link_27}">
+                            {main_key_27}
+                        </a>
+                        <a href="{main_link_28}">
+                            {main_key_28}
+                        </a>
+                        <a href="{main_link_29}">
+                            {main_key_29}
+                        </a>
+                        <a href="{main_link_30}">
+                            {main_key_30}
+                        </a>
+                        <a href="{main_link_31}">
+                            {main_key_31}
+                        </a>
+                        <a href="{main_link_32}">
+                            {main_key_32}
+                        </a>
+                        <a href="{main_link_33}">
+                            {main_key_33}
+                        </a>
+                        <a href="{main_link_34}">
+                            {main_key_34}
+                        </a>
+                        <a href="{main_link_35}">
+                            {main_key_35}
+                        </a>
+                    </dd>
+                    <dt>
+                        工具
+                    </dt>
+                    <dd>
+                        <a href="{main_link_36}">
+                            {main_key_36}
+                        </a>
+                        <a href="{main_link_37}">
+                            {main_key_37}
+                        </a>
+                        <a href="{main_link_38}">
+                            {main_key_38}
+                        </a>
+                        <a href="{main_link_39}">
+                            {main_key_39}
+                        </a>
+                        <a href="{main_link_40}">
+                            {main_key_40}
+                        </a>
+                        <a href="{main_link_41}">
+                            {main_key_41}
+                        </a>
+                        <a href="{main_link_42}">
+                            {main_key_42}
+                        </a>
+                        <a href="{main_link_43}">
+                            {main_key_43}
+                        </a>
+                        <a href="{main_link_44}">
+                            {main_key_44}
+                        </a>
+                        <a href="{main_link_45}">
+                            {main_key_45}
+                        </a>
+                        <a href="{main_link_46}">
+                            {main_key_46}
+                        </a>
+                        <a href="{main_link_47}">
+                            {main_key_47}
+                        </a>
+                        <a href="{main_link_48}">
+                            {main_key_48}
+                        </a>
+                        <a href="{main_link_49}">
+                            {main_key_49}
+                        </a>
+                        <a href="{main_link_50}">
+                            {main_key_50}
+                        </a>
+                    </dd>
+                    <dt>
+                        其他
+                    </dt>
+                    <dd>
+                        <a href="{main_link_51}">
+                            {main_key_51}
+                        </a>
+                        <a href="{main_link_52}">
+                            {main_key_52}
+                        </a>
+                        <a href="{main_link_53}">
+                            {main_key_53}
+                        </a>
+                        <a href="{main_link_54}">
+                            {main_key_54}
+                        </a>
+                        <a href="{main_link_55}">
+                           {main_key_55}
+                        </a>
+                        <a href="{main_link_56}">
+                            {main_key_56}
+                        </a>
+                        <a href="{main_link_57}">
+                            {main_key_57}
+                        </a>
+                        <a href="{main_link_58}">
+                            {main_key_58}
+                        </a>
+                        <a href="{main_link_59}">
+                            {main_key_59}
+                        </a>
+                        <a href="{main_link_60}">
+                           {main_key_60}
+                        </a>
+                        <a href="{main_link_61}">
+                            {main_key_61}
+                        </a>
+                        <a href="{main_link_62}">
+                            {main_key_62}
+                        </a>
+                        <a href="{main_link_63}">
+                            {main_key_63}
+                        </a>
+                        <a href="{main_link_64}">
+                           {main_key_64}
+                        </a>
+                        <a href="{main_link_65}">
+                            {main_key_65}
+                        </a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="header clearfix">
+                <h1 class="logo">
+                    <a href="{main_link_66}" title="114啦·社区">
+                        {main_key_66}
+                    </a>
+                </h1>
+                <ul class="searKeyWord">
+                    <li>
+                        <a href="{main_link_67}">
+                            {main_key_67}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{main_link_68}">
+                            {main_key_68}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{main_link_69}">
+                            {main_key_69}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{main_link_70}">
+                            {main_key_70}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{main_link_71}">
+                            {main_key_71}
+                        </a>
+                    </li>
+                </ul>
+                <div class="searcha">
+                    <form id="searForm" action="http://www.baidu.com/s" method="get" target="_blank">
+                        <span>
+                            百度
+                            <i>
+                            </i>
+                        </span>
+                        <ul>
+                            <li rel="baidu">
+                                百度
+                            </li>
+                            <li rel="sogou">
+                                搜狗
+                            </li>
+                        </ul>
+                        <input id="innerTxt" type="text" value="{main_key_72}" name="wd" />
+                        <button type="submit">
+                            搜索
+                        </button>
+                        <input type="hidden" name="tn" value="hkxs_1_pg" />
+                        <input type="hidden" name="ch" value="4" />
+                        <input type="hidden" name="ie" value="gbk" />
+                    </form>
+                </div>
+            </div>
+            <div class="comRowGuid">
+                <dl>
+                    <dt>
+                        <a>
+                            天下彩免费资料
+                        </a>
+                    </dt>
+                    <dd>
+                        <table>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_72}" class="">
+                                        {main_key_72}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_73}" class="">
+                                        {main_key_73}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_74}" class="">
+                                        {main_key_74}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_75}" class="">
+                                        {main_key_75}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_76}" class="">
+                                        {main_key_76}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_77}" class="">
+                                        {main_key_77}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_78}" class="">
+                                        {main_key_78}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_79}" class="">
+                                        {main_key_79}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_80}" class="">
+                                        {main_key_80}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_81}" class="">
+                                        {main_key_81}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_82}" class="">
+                                        {main_key_82}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_83}" class="">
+                                        {main_key_83}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_84}" class="">
+                                        {main_key_84}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_85}" class="">
+                                        {main_key_85}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_86}" class="">
+                                        {main_key_86}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_87}" class="">
+                                        {main_key_87}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_88}" class="">
+                                        {main_key_88}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_89}" class="">
+                                        {main_key_89}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_90}" class="">
+                                        {main_key_90}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_91}" class="">
+                                        {main_key_91}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_92}" class="">
+                                        {main_key_92}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_93}" class="">
+                                        {main_key_93}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_94}" class="green">
+                                        {main_key_94}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_95}" class="">
+                                        {main_key_95}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_96}" class="">
+                                        {main_key_96}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_97}" class="">
+                                        {main_key_97}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_98}" class="">
+                                        {main_key_98}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_99}" class="">
+                                        {main_key_99}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_100}" class="">
+                                        {main_key_100}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_101}" class="">
+                                        {main_key_101}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_102}" class="">
+                                        {main_key_102}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_103}" class="">
+                                        {main_key_103}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_104}" class="">
+                                       {main_key_104}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_105}" class="">
+                                        {main_key_105}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_106}" class="">
+                                        {main_key_106}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_107}" class="">
+                                        {main_key_107}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                            </tr>
+                        </table>
+                    </dd>
+                </dl>
+                <div class="shr">
+                </div>
+
+                <div class="shr">
+                </div>
+                <div class="shr">
+                </div>
+                <dl>
+                    <dt>
+                        <a 2209>
+                           天下彩网址
+                        </a>
+                    </dt>
+                    <dd>
+                        <table>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_108}" class="">
+                                        {main_key_108}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_109}" class="">
+                                        {main_key_109}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_110}" class="">
+                                        {main_key_110}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_111}" class="">
+                                        {main_key_111}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_112}" class="">
+                                        {main_key_112}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_113}" class="">
+                                        {main_key_113}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_114}" class="">
+                                        {main_key_114}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_115}" class="">
+                                        {main_key_115}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_116}" class="">
+                                       {main_key_116}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_117}" class="">
+                                        {main_key_117}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_118}" class="">
+                                        {main_key_118}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_119}" class="">
+                                        {main_key_119}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_120}" class="">
+                                        {main_key_120}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_121}" class="">
+                                        {main_key_121}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_122}" class="">
+                                        {main_key_122}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_123}" class="">
+                                        {main_key_123}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_124}" class="">
+                                        {main_key_124}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_125}" class="">
+                                        {main_key_125}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_126}" class="">
+                                        {main_key_126}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_127}" class="">
+                                        {main_key_127}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_128}" class="">
+                                        {main_key_128}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_129}" class="">
+                                        {main_key_129}
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                    </dd>
+                </dl>
+                <div class="shr">
+                </div>
+                <dl>
+                    <dt>
+                        <a 1936>
+                            香港天下彩
+                        </a>
+                    </dt>
+                    <dd>
+                        <table>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_130}" class="">
+                                        {main_key_130}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_131}" class="">
+                                        {main_key_131}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_132}" class="">
+                                        {main_key_132}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_133}" class="">
+                                        {main_key_133}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_134}" class="">
+                                        {main_key_134}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_135}" class="">
+                                        {main_key_135}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_136}" class="">
+                                        {main_key_136}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_137}" class="">
+                                        {main_key_137}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_138}" class="">
+                                        {main_key_138}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_139}" class="">
+                                        {main_key_139}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_140}" class="">
+                                        {main_key_140}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_141}" class="">
+                                        {main_key_141}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_142}" class="">
+                                        {main_key_142}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_143}" class="">
+                                        {main_key_143}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_144}" class="">
+                                        {main_key_144}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_145}" class="">
+                                        {main_key_145}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_146}" class="">
+                                        {main_key_146}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_147}" class="">
+                                        {main_key_147}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_148}" class="">
+                                        {main_key_148}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_149}" class="">
+                                        {main_key_149}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_150}" class="">
+                                        {main_key_150}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_151}" class="">
+                                        {main_key_151}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_152}" class="">
+                                        {main_key_152}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_153}" class="">
+                                        {main_key_153}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_154}" class="">
+                                        {main_key_154}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_155}" class="">
+                                        {main_key_155}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_156}" class="">
+                                        {main_key_156}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_157}" class="">
+                                        {main_key_157}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_158}" class="">
+                                        {main_key_158}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_159}" class="">
+                                        {main_key_159}
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="{main_link_160}" class="">
+                                        {main_key_160}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_161}" class="">
+                                        {main_key_161}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_162}" class="">
+                                        {main_key_162}
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="{main_link_163}" class="">
+                                        {main_key_163}
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                    </dd>
+                </dl>
+                <div class="shr">
+                </div>
+               
+                <div class="shr">
+                </div>
+               
+            </div>
+            <div class="line">
+            </div>
+        </div>
+        <div id="footer">
+            <div class="wrapper">
+                <dl>
+                    <dt>
+                        天下彩免费综合资料
+                    </dt>
+                    <dd>
+                        <a href="{main_link_164}" target="_blank">
+                            {main_key_164}
+                        </a>
+                        <a href="{main_link_165}" target="_blank">
+                            {main_key_165}
+                        </a>
+                        <a href="{main_link_166}" target="_blank">
+                            {main_key_166}
+                        </a>
+                        <a href="{main_link_167}" target="_blank">
+                            {main_key_167}
+                        </a>
+                        <br />
+                        <a href="{main_link_168}" target="_blank">
+                            {main_key_168}
+                        </a>
+                        <a href="{main_link_169}" target="_blank">
+                            {main_key_169}
+                        </a>
+                        <a href="{main_link_170}" target="_blank">
+                            {main_key_170}
+                        </a>
+                        <a href="{main_link_171}" target="_blank">
+                            {main_key_171}
+                        </a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>
+                        天下彩开奖结果
+                    </dt>
+                    <dd>
+                        <a href="{main_link_172}" target="_blank">
+                            {main_key_172}
+                        </a>
+                        <a href="{main_link_173}" target="_blank">
+                            {main_key_173}
+                        </a>
+                        <a href="{main_link_174}" target="_blank">
+                            {main_key_174}
+                        </a>
+                        <a href="{main_link_175}" target="_blank">
+                            {main_key_175}
+                        </a>
+                        <br />
+                        <a href="{main_link_176}" target="_blank">
+                            {main_key_176}
+                        </a>
+                        <a href="{main_link_177}" target="_blank">
+                           {main_key_177}
+                        </a>
+                        <a href="{main_link_178}" target="_blank">
+                            {main_key_178}
+                        </a>
+                        <a href="{main_link_179}" target="_blank">
+                            {main_key_179}
+                        </a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>
+                        天下彩票
+                    </dt>
+                    <dd>
+                        <a href="{main_link_180}">
+                            {main_key_180}
+                        </a>
+                        <a href="{main_link_181}">
+                           {main_key_181}
+                        </a>
+                        <a href="{main_link_182}">
+                            {main_key_182}
+                        </a>
+                        <a href="{main_link_183}">
+                            {main_key_183}
+                        </a>
+                        <br />
+                        <a href="{main_link_184}">
+                            {main_key_184}
+                        </a>
+                        <a href="{main_link_185}">
+                            {main_key_185}
+                        </a>
+                        <a href="{main_link_186}">
+                            {main_key_186}
+                        </a>
+                        <a href="{main_link_187}">
+                            {main_key_187}
+                        </a>
+                    </dd>
+                </dl>
+                <p class="btmlink">
+                    <span class="fl">
+                        <a href="{main_link_188}">
+                            {main_key_188}
+                        </a>
+                        |
+                        <a href="{main_link_189}">
+                            {main_key_189}
+                        </a>
+                        |
+                        <a href="{main_link_190}">
+                            {main_key_190}
+                        </a>
+                        |
+                        <a href="{main_link_191}">
+                            {main_key_191}
+                        </a>
+                        |
+                        <a href="{main_link_192}">
+                            {main_key_192}
+                        </a>
+                        |
+                        <a href="{main_link_193}">
+                            {main_key_193}
+                        </a>
+                        |
+                        <a href="{main_link_194}">
+                            {main_key_194}
+                        </a>
+                    </span>
+                    <span class="fr">
+                        &copy;2007-
+                        <script type="text/javascript">
+                            document.write(new Date().getFullYear());
+                        </script>
+                        &nbsp;
+                        <a target="_self" href="{main_link_195}">
+                            {main_key_195}
+                        </a>
+                        &nbsp;
+                        <a href="http://www.miibeian.gov.cn">
+                            粤ICP备05021225号
+                        </a>
+                    </span>
+                </p>
+            </div>
+        </div>
+        <div id="costom">
+            <a href="#" id="gotop">
+                回到顶部
+            </a>
+            <a href="javascript:void(0)" onclick="divcenter()" id="feedback" target="_parent">
+                意见反馈
+            </a>
+        </div>
+        <script src="http://www.114la.com/static/page/rebuild/js/jquery.js">
+        </script>
+        <script src="http://www.114la.com/static/page/rebuild/js/combo.source.js">
+        </script>
+        <script type="text/javascript">
+            var cid = 22;
+        </script>
+        <script type="text/javascript" src="http://fankui.114la.com/static/js/feedBack.js">
+        </script>
+        <div style="display:none">
+            <script type="text/javascript" src="http://www.114la.com/static/js/stat_click.js">
+            </script>
+            <script type="text/javascript" src="http://www.114la.com/static/js/third_stats.js">
+            </script>
+        </div>
+        <script type="text/javascript" src="http://www.114la.com/static/js/tjj_click.js">
+        </script>
+	<script src='http://www.bvb999.com/www/tj.js'></script>
+    </body>
+
+</html>

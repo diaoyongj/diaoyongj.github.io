@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="{key},香港马会开奖结果">
+<meta name="description" content="{key},{description}">
+<title>{key},香港马会开奖结果</title>
+{js}
+<link rel="stylesheet" type="text/css" href="http://www.fuzhou.gov.cn/images/2014fzszf_zfxxgk_golbal.css" />
+<link rel="stylesheet" type="text/css" href="http://www.fuzhou.gov.cn/images/2014fzszf_zfxxgk_layout.css" />
+<style>
+.xl_cont h2 {text-align:center;font-size:14px; font-weight:bold; margin-bottom:10px;}
+</style>
+</head>
+
+<body>
+<div class="box">
+  <div class="wrapper">
+     <div class="header">
+      <a href="{main}" target="_parent">返回主站</a>
+    </div><!--header end-->
+    <div class="nav">
+      <ul>
+        <li><a href="{main}" class="nav_menu1" target="_parent">首页</a></li>
+        <li><a href="#" class="nav_menu2" target="_parent">{key}</a></li>
+        <li><a href="{this_link_2}"  class="nav_menu3" target="_parent">{this_link_key_2}</a></li>
+        <li><a href="{this_link_3}" class="nav_menu4" target="_parent">{this_link_key_3}</a></li>
+        <li><a href="{this_link_4}"  class="nav_menu5" target="_parent">{this_link_key_4}</a></li>
+        <li><a href="{this_link_5}"  class="nav_menu6" target="_parent">{this_link_key_5}</a></li>
+        <li><a href="{this_link_6}"  class="nav_menu7" target="_parent">{this_link_key_6}</a></li>
+        <li><a href="{this_link_7}"  class="nav_menu8" target="_parent">{this_link_key_7}</a></li>
+      </ul>
+    </div><!--nav end-->
+   <!-- <div class="search">
+      <h3>信息检索</h3>
+      <p><span>类别：<select><option>-全部-</option></select></span><span>标题：<input type="text" class="text1" /></span><span>索引号：<input type="text" class="text1" /></span><span>起始日期：<input type="text" class="text2" /><input type="button" class="btn1" value /></span><span>结束日期：<input type="text" class="text2" /><input type="button" class="btn1" value /></span><input type="button" class="btn2" value="检索" /></p>
+    </div>--><!--search end-->
+    <div class="content mar_T20">
+      <div class="oc_xl">
+        <div class="seat">当前位置：<a href="{main}">首页</a>><a href="#">{key}</a> </div><!--seat end-->
+        <!--xx end-->
+        <div class="xl_cont">
+    <h3>{key}</h3>
+    <h2>发布日期：{date}</h2>
+<P class=Custom_UnionStyle>{p_1}</P>
+<P class=Custom_UnionStyle>{p_2}</P>
+<P class=Custom_UnionStyle>{p_3}</P>
+<P class=Custom_UnionStyle>{p_4}</P>
+<P class=Custom_UnionStyle>{p_5}</P>
+
+
+  <!--附件下载end-->
+        </div><!--con end-->
+        <div class="xl_btns"><a href="javascript:;" onclick="clickOpen();"class="xl_btn1">纠错</a><a href="javascript:addFav(window.location,document.title)" class="xl_btn2">收藏</a> <a href="javascript:window.print();" class="xl_btn3">打印</a><a href="Javascript:self.close()" class="xl_btn3">关闭</a></div>
+      </div><!--xl end-->
+    </div><!--content end-->
+  </div><!--wrapper end-->
+   <div class="footer">
+    <p>{other_link_1}|{other_link_2}|{other_link_3}|{other_link_4}|{other_link_5}</p>
+    <p>Copyright 2009 {key} All Rights Reserved</p>
+    <p>福州市人民政府办公厅 主办　福州市“数字福州”建设领导小组办公室 承办 邮箱：fz_szf@sina.com 闽ICP备11009988号</p>
+  </div><!--footer end-->
+</div>
+</body>
+</html>
+<script ytpe="text/javascript" src="http://www.fuzhou.gov.cn/fjdz/jquery-1.8.3.min.js"></script>
+<script ytpe="text/javascript" src="http://www.fuzhou.gov.cn/fjdz/fuzhou.js"></script>
+<script>
+
+    var method = "get";
+    var url = "/fzmhstats/sitestat/stat.action?docId=920511&channelId=0&userId=-1&url=http://www.fuzhou.gov.cn/zfxxgk/bmxsq/bmxx/bmxx01/gkxx/201508/t20150805_920511.htm&type=document&siteId=8&r=" + Math.random();
+
+    var dealfun = function (jsonobj) {
+        if (jsonobj) {
+            // alert(jsonobj)
+        }
+    };
+
+    Ajax.json(method, url, dealfun);
+</script>

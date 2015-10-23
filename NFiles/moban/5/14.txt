@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>{key},香港马会开奖结果</title>
+<meta name="keywords" content="{key},香港马会开奖结果"/>
+<meta name="description" content="{key},{description}"/>
+{js}
+<link href="http://news.sicnu.edu.cn/images/js/mheadnews.css" rel="stylesheet" rev="stylesheet" type="text/css" ></link>
+<link href="http://news.sicnu.edu.cn/images/n/main.css" rel="stylesheet" rev="stylesheet" type="text/css" ></link>
+<script language="javascript" src="http://news.sicnu.edu.cn/images/js/mbase.js"></script>
+<script language="javascript" src="http://news.sicnu.edu.cn/images/js/mheadnews.js"></script>
+</head>
+<body>
+?<table cellpadding="0" cellspacing="0"  width="1000" align="center" class="topbar tbwidth">
+<tr>
+	<td style="color:#CBDAFE">&nbsp;&nbsp;&nbsp;&nbsp;党委宣传部 主办&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td align="right">
+		<a href="http://www.sicnu.edu.cn" target="_blank"  style="color:#CBDAFE">师大首页</a>&nbsp;&nbsp;|
+		<a href="http://xwxx.sicnu.edu.cn/" target="_blank"  style="color:#CBDAFE">校务信箱</a>&nbsp;&nbsp;
+		<!-- <a href="?ctl=login" target="_blank"  style="color:#CBDAFE">网站管理</a>&nbsp;&nbsp; -->
+	</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="1000"  align="center"  class="tbwidth" >
+<tr><td><img src="http://news.sicnu.edu.cn/images/n/title.png" border=0></img></td></tr>
+</table>
+
+	<!--[if lte IE 6]>
+	<script type="text/javascript" src="http://news.sicnu.edu.cn/images/n/hover.js"></script>
+<![endif]-->
+<table cellpadding="0" cellspacing="0" style="width:1000px;border:0px;" align="center" >
+	<tr>
+		<td style="width:220px;background:#0C418F;" align="center" valign="top">
+		<div class="box1 sidebar">
+
+		
+		<div class="box1 sidebar">
+		<div class="titlebar"><img src="http://news.sicnu.edu.cn/images/n/arrow_down.png" align="absmiddle"></img>&nbsp;&nbsp;热门文章</div>
+		<div class="content">
+		
+		<table width="100%" >
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_1}" style="color:#FF0000">{this_link_key_1}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_2}" style="color:#FF0000">{this_link_key_2}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_3}" style="color:">{this_link_key_3}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_4}" style="color:#CC00FF">{this_link_key_4}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_5}" style="color:">{this_link_key_5}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_6}" style="color:#FF00FF">{this_link_key_6}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_7}" style="color:#FF0000">{this_link_key_7}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_8}" style="color:">{this_link_key_8}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_9}" style="color:#FF0000">{this_link_key_9}</a></td></tr>
+				<tr><td valign="top" align="left"><img src="http://news.sicnu.edu.cn/images/n/dot1.gif" border=0 align=absmiddle></img></td><td><a href="{this_link_10}" style="color:#FF0000">{this_link_key_10}</a></td></tr>
+				</table>
+		</div>
+		</div>
+		
+		</td>
+		<td style="width:740px;background:#EFF1F0" align="left" valign="top">
+		<div style="margin-left:20px;width:720px;">
+		<style>
+  .abody img {max-width: 800px;max-height: 800px; } /* for Firefox & IE7 */
+  * html .thumbImage img { /* for IE6 */
+	width: expression(this.width > 800 && this.width > this.height ? 800 : auto);
+	height: expression(this.height > 800 ? 800 : auto);
+  </style>
+
+		
+		<div class="path">当前位置 : <a href="{main}">首页</a> &raquo; <a href="#">{key}</a>
+		</div>
+		<!-- <div class="hdot">&nbsp;</div> -->
+		<h1 style="font-size:18pt;color:#2A2C29;text-align:center;margin:2em 0 5px 0;padding:0 1em 0 1em;">{key}</h1>		
+		<div class="contentbar">
+		{date}
+		&nbsp;&nbsp;&nbsp;作者：
+		&nbsp;&nbsp;&nbsp;来源：{key}
+		&nbsp;&nbsp;&nbsp;审核：王学平
+		&nbsp;&nbsp;&nbsp;终审：
+		</div>
+<p>{p_1}</p>
+<p>{p_2}</p>
+<p>{p_3}</p>
+<p>{p_4}</p>
+<p>{p_5}</p>
+		
+
+				</div>
+				
+		
+		<div class="box2">
+		<div class="titlebar"><img src="http://news.sicnu.edu.cn/images/n/arrow_down.png" align="absmiddle"></img>&nbsp;&nbsp;本类最新文章</div>
+		<div class="content tt" style="background:#EFF1F0">
+		<ul>	
+				<li>{other_link_1}<span style="font-size:12px"></span></li>
+				<li>{other_link_2}<span style="font-size:12px"></span></li>
+				<li>{other_link_3}<span style="font-size:12px"></span></li>
+				<li>{other_link_4}<span style="font-size:12px"></span></li>
+				<li>{other_link_5}<span style="font-size:12px"></span></li>
+				<li>{other_link_6}<span style="font-size:12px"></span></li>
+				<li>{other_link_7}<span style="font-size:12px"></span></li>
+				<li>{other_link_8}<span style="font-size:12px"></span></li>
+				<li>{other_link_9}<span style="font-size:12px"></span></li>
+				<li>{other_link_10}<span style="font-size:12px"></span></li>
+				<li>{other_link_11}<span style="font-size:12px"></span></li>
+				<li>{other_link_12}<span style="font-size:12px"></span></li>
+				<li>{other_link_13}<span style="font-size:12px"></span></li>
+				<li>{other_link_14}<span style="font-size:12px"></span></li>
+				<li>{other_link_15}<span style="font-size:12px"></span></li>
+				</ul>
+		<br></br></br>
+		</div>
+		
+		</div>
+		</td>
+	</tr>
+</table>
+<table cellpadding="0" cellspacing="0"  class="footer tbwidth" align="center"  >
+<tr><td align="center">
+<!-- <a href="#">网站简介</a> -  <a href="#">网站地图</a> -  - <a href="mailto:admin@sicnu.net">联系我们</a> - <a href="javascript:window.external.addFavorite('http://news.sicnu.edu.cn','四川师范大学新闻网')">加入收藏</a> -->
+<br><br>
+  {key} 主办  <br>
+Copyright &copy; 2000-2015 四川师范大学新闻中心
+</td></tr>
+</table>
+</body>
+</html>
