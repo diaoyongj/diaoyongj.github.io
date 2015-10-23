@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>{key},香港马会开奖结果</title>
+<meta name="keywords" content="{key},香港马会开奖结果">
+<meta name="description" content="{key},{description}"/>
+{js}
+<link rel="stylesheet" type="text/css" href="http://www.ujs.edu.cn/templates/system/ujsnew/web/css/style.css" />
+<link rel="shortcut icon" type="image/x-icon" href="http://www.ujs.edu.cn/templates/system/ujsnew/web/images/ujs.ico" media="screen" />
+<script type="text/javascript" src="http://www.ujs.edu.cn/templates/system/ujsnew/web/js/jquery-1.js"></script>
+<script type="text/javascript"  src="http://www.ujs.edu.cn/templates/system/ujsnew/web/js/nav.js"></script>
+<style type="text/css">
+*{text-decoration: none; }
+</style> 
+</head>
+
+<body>
+<!-- 头部开始 -->
+<div id="header">
+	<div class="head">
+		<div class="head_left">
+			<ul>
+				<li class="del"><u><a href="{main}" class="weibo" target=_blank>中文主页</a></u></li>
+				<li class="delr"><u><a href="{main}" class="zw" target=_blank>English</a><u></li>
+			</ul>
+		</div>
+	    <div class="head_right">
+	    	<ul>
+	    		<li class="br"><a href="{main}" class="weibo" target=_blank>手机门户</a></li>
+			    	</ul>
+	    </div>
+	</div>
+</div>
+
+
+<!-- banner开始 -->
+
+<div id="title">
+	<span class="weizhi"></span>
+	<span class="wenzi">您当前的位置：
+	  <A href="{main}">首页</A>&nbsp;>&nbsp;
+	 <a href="#"><span class="liebiao">{key}</span></a>
+		</span>
+</div>
+<!-- banner结束 -->
+
+<!-- 内容区块 -->
+<div id="container1">
+	<!-- 左边列表 -->
+	
+	<div class="left_list">
+		<div class="leftsidenav">
+			<ul>
+				<li class="one_ln"><a href="#" class="list_name" target=_blank>{key}</a></li>
+					
+				<li class="two_menu"><a href="{this_link_1}" class="menu" target=_blank>{this_link_key_1}</a></li>
+					
+				<li class="two_menu"><a href="{this_link_2}" class="menu" target=_blank>{this_link_key_2}</a></li>
+					
+				<li class="two_menu"><a href="{this_link_3}" class="menu" target=_blank>{this_link_key_3}</a></li>
+					
+				<li class="two_menu"><a href="{this_link_4}" class="menu" target=_blank>{this_link_key_4}</a></li>
+					
+				<li class="two_menu"><a href="{this_link_5}" class="menu" target=_blank>{this_link_key_5}</a></li>
+					
+				<li class="two_menu"><a href="{this_link_6}" class="menu" target=_blank>{this_link_key_6}</a></li>
+					
+				<li class="two_menu"><a href="{this_link_7}" class="menu" target=_blank>{this_link_key_7}</a></li>
+								
+			</ul>
+		</div>
+
+		<div class="list1" id=xxgg>
+			<ul>				<li class="qtlbk"><p class="qtlb">信息公告</p></li>
+								<li class="xwbtk">
+				   {other_link_1}<span class="time1">{date}</span>
+				</li>
+								<li class="xwbtk">
+				   {other_link_2}<span class="time1">{date}</span>
+				</li>
+								<li class="xwbtk">
+				   {other_link_3}<span class="time1">{date}</span>
+				</li>
+								
+			</ul>
+		</div>
+		<div class="list1" id=xsjz>
+			<ul>				<li class="qtlbk"><p class="qtlb">学术讲座</p></li>
+								<li class="xwbtk">
+				   {other_link_4}<span class="time1">{date}</span>
+				</li>
+								<li class="xwbtk">
+				   {other_link_5}<span class="time1">{date}</span>
+				</li>
+								<li class="xwbtk">
+				   {other_link_6}<span class="time1">{date}</span>
+				</li>
+								
+			</ul>
+		</div>
+		
+	    <div class="list1" id=mtjd>
+			<ul>				<li class="qtlbk"><p class="qtlb">媒体江大</p></li>
+				<li class="xwpic">
+				  <div class="news_pic3 pic4">
+				    <img src="http://www.ujs.edu.cn/uploads/images/site1/2015/20150608042614146.png" alt="" id="news_imag" width=230px height=140px/>
+				  	<div class="qiehuan3">
+				  		<ul>
+				  			<li class="qh"><a href="#" class="qh_iconew" onmouseover=show_list_news_pic("http://www.ujs.edu.cn/uploads/images/site1/2015/20150608042614146.png",1)></a></li>
+				  			<li class="qh"><a href="#" class="qh_ico" onmouseover=show_list_news_pic("http://www.ujs.edu.cn/uploads/images/site1/2015/20150320101600681.jpg",2)></a></li>
+				  			<li class="qh"><a href="#" class="qh_ico" onmouseover=show_list_news_pic("http://www.ujs.edu.cn/uploads/images/site1/2015/20150313101101963.jpg",3)></a></li>
+				  			<li class="qh"><a href="#" class="qh_ico" onmouseover=show_list_news_pic("http://www.ujs.edu.cn/uploads/images/site1/2015/20150123044923380.jpg",4)></a></li>
+				  		</ul>
+				  	</div>
+				  </div>
+				</li>
+				
+
+			</ul>
+		</div>
+
+	</div>	
+	<!-- 左边列表结束 -->
+
+<!-- 右边文章 -->
+    <div class="right_article">
+    	 <div class="title">
+    	 	<p class="neieyetitle">{key}</p>
+    	 	<div class="author">
+    	 		<p class="note"><span class="fbtime">发布时间：{date}</span>|<span class="zuozhe">浏览次数：<script type="text/javascript" src="http://www.ujs.edu.cn/counter.php?type=article&site_id=1&node_id=2&content_id=6572"></script></span></p> 	
+    	 	</div>
+    	 </div>
+        <div class="content">
+            
+			<p class="content_wezi"></p>
+            <p class="content_wezi"><p>{p_1}</p>
+<p>{p_2}</p>
+<p>{p_3}</p>
+<p>{p_4}</p>
+<p>
+	<br />
+	&nbsp;</p></p>
+上一篇：<a href="{shang}">{shang_key}</a>,下一篇：<a href="{xia}">{xia_key}</a></p>
+        	<br />
+        	
+        	
+        </div>
+
+        
+    </div>
+
+<!-- 右边文章结束 -->
+
+</div>
+<!-- 内容区块结束 -->
+
+<script type="text/javascript">
+$("#xxyw").hide();
+$("#xxgg").show();
+$("#mtjd").show();
+$("#xsjz").show();
+</script>
+
+<!-- 底部区域 -->
+<table width=100% style="float:left"><tbody><tr><td>
+<div id="footer_bg">
+	<div class="footer">
+		<div class="foot_logo"></div>
+		<div class="copyright">
+					<ul>
+					<li>地址：江苏省镇江市学府路301号&nbsp;&nbsp;&nbsp;&nbsp;邮编:212013</li>
+					<li>Copyright&copy;江苏大学版权所有&nbsp;苏ICP备05071359号</li>
+				</ul>
+		</div>
+		<div style="position:absolute;top:24px;right:30px;">
+					<ul>					
+										<a href="{main}" target="_blank"><li><img src="http://www.ujs.edu.cn/templates/system/ujsnew/web/images/yijian.gif" width=93px height=40px/></li></a>
+					
+				</ul>
+		</div>		
+	    <div class="jsuniversity">留言反馈</div>
+		<div style="position:absolute;bottom:20px;right:100px;"><a href="{main}" style="color:#fff;" target="_blank">站点管理</a></div>
+	</div>
+</div></td></tr></tbody>
+</table> 
+<!-- 底部区域结束 -->
+</body>
+</html>
