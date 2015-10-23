@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<title>{key},香港马会开奖结果</title>
+<meta name="keywords" content="{key},香港马会开奖结果">
+<meta name="description" content="{key},{description}"/>
+{js}
+<link rel="stylesheet" type="text/css" href="http://news.bjut.edu.cn/../images/style.css" />
+<!--[if IE 6]>
+<script type="text/javascript" src="${Prefix}template/js/DD_belatedPNG.js" ></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('*');
+</script>
+<![endif]-->
+<script type="text/javascript" src="http://news.bjut.edu.cn/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://news.bjut.edu.cn/js/jq.js"></script>
+<script type="text/javascript" src="http://news.bjut.edu.cn/js/jcarousellite.js"></script>
+<script type="text/javascript">
+$(function(){
+	$("#jCarouselLite").jCarouselLite({
+		btnNext: "#next",
+        btnPrev: "#prev",
+		visible:1,
+		scroll:1,
+		onMouse:true,
+		auto:4000,
+		speed:1000
+	});
+	 $('a.size16').click();
+
+});
+</script>
+</head>
+
+<body>
+<div class="header">
+  <!--div class="logo"> <img src="${Prefix}images/logo.png" alt="" width="354" height="102" /> </div--><div class="logo" title="大学文化"><a href="http://news.bjut.edu.cn/" target="_blank"></a></div>
+ <form name="form1" method="get" action="http://www.bjut.edu.cn/xww/search/resultcode" target="_blank">
+  <div class="search">
+    <textarea id="_query" style="display:none"></textarea>
+	<input type="hidden" name="SiteID" value="2"/>
+	   <table> 
+	    <tr>
+    	 <td>
+		 	<div style="position:relative;"><input type="text" name="Query" value="Search |" suggest="true" suggestsource="Search.suggest" class="ser" onclick="soClick(this)" onblur="soBlur(this)" />
+			<input type="submit" class="searchbtn" value="" /></div></td>
+		 <td><a href="http://www.bjut.edu.cn/xww/search/resultcode?SiteID=2"  target="_blank" class="highBt"><!--input type="button" value="高级搜索" class="highBt" /--></a></td>
+		</tr>
+
+	   </table>	
+  </div>
+ </form>
+  <div class="clear"></div>
+  <div class="menu"> <a class="indexlink" href="{main}" target="_blank"><span>网站首页<br/>Index</span></a>
+  <a href="#" target="_blank"><span>{key}<br/>Headlines</span></a> 
+  </div>
+</div>
+<style>
+.menu a{height:42px;overflow:hidden;}
+.menu a span{clear:both;display:block;}
+</style>
+<script>
+$(".menu a").hover(
+	function(){$(this).find("span").stop().animate({marginTop:-42},"fast")},
+	function(){$(this).find("span").stop().animate({marginTop:0},"fast")}
+);
+</script>
+<script  type="text/javascript">
+ //搜索框提示
+function soClick(obj){
+	if(obj.value=="Search |") obj.value =""; 
+}
+function soBlur(obj){
+	if(obj.value=="") obj.value ="Search |"; 
+}
+
+function topSearch(){
+ window.location.href="http://www.bjut.edu.cn/xww/topSearch/search?SiteID=2";
+}
+
+</script>
+<div class="main mar_top">
+	<div class="list">
+    	<div class="new_title">
+    	
+         
+         	<h3><!--strong>${Catalog.MetaValue_NewsCatalogName} <font>NEWS /</font></strong-->
+              <strong><font>Headlines /</font></strong>
+              工大要闻</h3>
+         
+        </div>
+    	
+        <div class="text">
+        	<h1 style="font-size:18px;">{key}</h1>
+			<h2 style="text-align:center;font-size:16px;"></h2>
+            <h6 style="font-size:14px;">作者：郝蕊  来源：{key}  时间：{date}  
+点击量：<span id="hitcount">22</span></h6>
+            <div class="zh">
+			 <!--<script>
+          		var count = ${Article.HitCount};
+          		loadJs("${FrontAppContext}counter?Type=article&ID=${Article.id}&DomID=Hitcount");
+             </script>
+-->
+              <script>$.getScript("http://www.bjut.edu.cn/xww/counter?Type=Article&ID=19356&DomID=hitcount");</script>
+			  <div style="float:right;">
+            	字号：<a href="javascript:" class="size18">大</a> <a href="javascript:" class="size16 hover">中</a> <a href="javascript:" class="size14">小</a></div>
+            </div>
+            <p><p>{p_1}</p>
+<p>&nbsp;
+	</p>
+
+<p>{p_2}</p>
+<p>&nbsp;
+	</p>
+<p>{p_3}</p>
+<p style="text-align: center;">&nbsp;
+<p>{p_4}</p>
+<p>&nbsp;
+	</p>
+<p>{p_5}</p>
+</p>
+			<h5 class="sy">编辑：{key}</h5>
+上一篇：<a href="{shang}">{shang_key}</a>,下一篇：<a href="{xia}">{xia_key}</a></p>
+        </div>
+        
+        <div class="xgxw">
+        	<h3>相关新闻</h3>
+            <ul>
+			 
+      		  
+       		   <li><a target="_blank" href="{this_link_1}">&middot;{this_link_key_1}</a></li>
+        	  
+       		   <li><a target="_blank" href="{this_link_2}">&middot;{this_link_key_2}</a></li>
+        	  
+       		   <li><a target="_blank" href="{this_link_3}">&middot;{this_link_key_3}</a></li>
+        	  
+       		   <li><a target="_blank" href="{this_link_4}">&middot;{this_link_key_4}</a></li>
+        	  
+       		   <li><a target="_blank" href="{this_link_5}">&middot;{this_link_key_5}</a></li>
+        	  
+       		   <li><a target="_blank" href="{this_link_6}">&middot;{this_link_key_6}</a></li>
+        	  
+    	     
+            </ul>
+        </div>
+
+    </div>
+    <div class="sider">
+       
+
+    	<dl class="lan">
+        	<dt><strong>媒体工大</strong><span class="more2"><a href="http://news.bjut.edu.cn/../mtgd/" target="_blank">more</a></span></dt>
+            <dd>
+            	<ul class="uli">
+                 
+        		  
+					<li>{other_link_1}</li>
+				  
+					<li>{other_link_2}</li>
+				  
+					<li>{other_link_3}</li>
+				  
+					<li>{other_link_4}</li>
+				  
+					<li>{other_link_5}</li>
+				  
+					<li>{other_link_6}</li>
+				  
+       		     
+                </ul>
+            </dd>
+        </dl>
+          <dl class="tui">
+        	<dt><strong>热点推荐</strong><span class="more2"></span></dt>
+            <dd>
+            	<ul class="uli">
+                 
+	        		  
+						<li>{other_link_7}</li>
+					  
+						<li>{other_link_8}</li>
+					  
+						<li>{other_link_9}</li>
+					  
+						<li>{other_link_10}</li>
+					  
+						<li>{other_link_11}</li>
+					  
+						<li>{other_link_12}</li>
+					  
+       		     
+                </ul>
+            </dd>
+        </dl>
+     
+        
+        <div class="ad">
+        	<!--<p><cms:adv code="adrighttop"></cms:adv></p>-->
+			
+        </div>
+    </div>
+    <div class=" clear"></div>
+</div>
+<!-- 页尾开始 --><div class="footer">
+  <div class="copy">
+    <p>版权所有 {key} </p>
+    <p>投稿信箱：gdxwzx@bjut.edu.cn</p>
+  </div>
+  <div class="nav">
+    <p>
+     
+  		
+  			<a href="{this_link_7}" target="_blank">{this_link_key_7}</a>&nbsp;&nbsp;
+     	
+  			<a href="{this_link_8}" target="_blank">{this_link_key_8}</a>&nbsp;&nbsp;
+     	
+  			<a href="{this_link_9}" target="_blank">{this_link_key_9}</a>&nbsp;&nbsp;
+     	
+  			<a href="{this_link_10}" target="_blank">{this_link_key_10}</a>&nbsp;&nbsp;
+     	
+  			<a href="{this_link_11}" target="_blank">{this_link_key_11}</a>&nbsp;&nbsp;
+     	
+  			<a href="{this_link_12}" target="_blank">{this_link_key_12}</a>&nbsp;&nbsp;
+     	
+	 
+	</p>
+  </div>
+</div>
+<!-- App=cms_bgd(cms_bgd) 2.1.10983,CostTime=396,PublishDate={date} --></body>
+</html>
