@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>{key},香港马会开奖结果</title>
+<meta name="keywords" content="{key},香港马会开奖结果"/>
+<meta name="description" content="{key},{description}"/>
+{js}
+<link rel="stylesheet" type="text/css" href="http://www.news.ynu.edu.cn/manage/images/style.css" />
+<base target="_blank" />
+</head>
+
+<body>
+<div class="main"><!--main start-->
+	<div class="c0">
+		<div class="layout grid-s9m0e8">
+    		<div class="col-main">
+       	 		<div class="main-wrap"><div class="xiaoxun">{key}</div></div>
+   	   		</div>
+        <div class="col-sub"><div class="xiaoxun">云南大学党委宣传部 云南大学新闻中心主办</div></div>  
+		<div class="col-extra"><div class="xiaoxun"><script src="http://www.news.ynu.edu.cn/manage/images/time.js"  type="text/javascript"></script></div></div>
+     </div>	
+	</div>
+    <div class="c1">
+		<div class="layout grid-m0s16">
+			<div class="col-main">
+				<div class="main-wrap">
+					<div class="logo l"><img src="http://www.news.ynu.edu.cn/manage/images/logo.jpg"/></div>
+				</div>
+			</div>
+x
+		</div><!--s9m0-->
+	  </div> 
+	<!--主体部分开始-->
+	<div class="articlemain">
+		<div class="layout grid-m0s8">
+			<div class="col-main">
+				<div class="main-wrap">
+					<div class="articlel">
+				<!--**********************-->
+					  <!--first-->
+						<div class="newstitle2">
+							<div class="layout grid-m">
+								<div class="col-main">
+									<h2><span class="more r"><a href="{main}">首页</a></span>您的位置：>><A href="#" target=_blank>{key}</A>>>正文</h2>
+								</div>
+							</div>
+						</div>
+					   <!--first-->
+						<div class="articlecontent">
+							<div class="layout grid-m">
+								<div class="col-main">
+								<!--lll-->
+				                	<div class="atitle">{key}</div>
+<script type="text/javascript">
+function postToWb(){
+var _t = encodeURI(document.title);
+var _url = encodeURI(document.location);
+var _u = 'http://v.t.qq.com/share/share.php?title='+_t+'&url='+_url;
+window.open( _u,'转播到腾讯微博', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+}
+</script>
+								  <div class="ainfo">时间：{date} 编辑：新闻中心 浏览：<script src="http://www.news.ynu.edu.cn/manage/counter.php?o=display&Id=10334"></script><script src="http://www.news.ynu.edu.cn/manage/counter.php?Id=10334"></script>次 分享到：<a href="http://v.t.sina.com.cn/share/share.php?title=云南大学呈贡校区明远楼通过竣工验收&url=http://www.news.ynu.edu.cn/zhxw/2015-07-15/0-7-10334.html">新浪微博</a> <a href="javascript:void(0)" onclick="postToWb();" target="_self">腾讯微博</a></div>
+								  <div class="acontent">
+								  	<P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-layout-grid-align: none" class=MsoNormal align=center><FONT face=Calibri><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 16pt; mso-no-proof: yes" lang=EN-US></SPAN></FONT><FONT face=Calibri><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 16pt; mso-no-proof: yes" lang=EN-US></SPAN></FONT><FONT face=Calibri><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 16pt; mso-no-proof: yes" lang=EN-US></SPAN></FONT>&nbsp;</P><FONT face=Calibri><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 16pt; mso-no-proof: yes" lang=EN-US></SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 16pt" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT>
+<p>{p_1}</p>
+<p>{p_2}</p>
+<p>{p_3}</p>
+<p>{p_4}</p>
+<p>{p_5}</p>
+	  </div>
+上一篇：<a href="{shang}">{shang_key}</a>,下一篇：<a href="{xia}">{xia_key}</a></p>
+								 <div class="afoot"><a href="javascript:window.external.addFavorite('http://www.news.ynu.edu.cn/zhxw/2015-07-15/0-7-10334.html','云南大学呈贡校区明远楼通过竣工验收—云南大学新闻网');" target="_self">【收藏】</a> <a href="javascript:window.print();" target="_self">【打印】</a> <a href="javascript:window.close();" target="_self">【关闭】</a> <a href="#top" target="_self">【返回顶部】</a>  <span>转载文章请注明文章出处</span></div> 
+								<!--lll-->
+							    </div>
+						    </div>
+					   </div>
+				<!--**********************-->
+					</div><!--article left-->
+				</div><!--col-main end-->
+			</div>
+			<div class="col-sub">
+				<div class="articler">
+			<!--**********************-->
+            <!--**********************-->
+			      <div class="alist">
+					<div class="newstitle">
+						<h2><span class="more r"><a href="/zhxw">更多</a></span>综合新闻</h2>
+					</div>
+					<div class="c3list">
+						<ul>
+								
+<li><a href="{this_link_1}">{this_link_key_1}</a></li>
+	
+<li><a href="{this_link_2}">{this_link_key_2}</a></li>
+	
+<li><a href="{this_link_3}">{this_link_key_3}</a></li>
+	
+<li><a href="{this_link_4}">{this_link_key_4}</a></li>
+							</ul>
+					</div><!--list end-->
+                  </div>
+			<!--**********************-->
+					<div class="alist">
+					<div class="newstitle">
+						<h2><span class="more r"><a href="http://ynunews.cuepa.cn/">更多</a></span>云南大学报</h2>
+					</div>
+					<div class="yndxb"><img src="http://www.news.ynu.edu.cn/manage/images/xb2.gif" /></div>
+					<div class="c3list">
+						<ul>
+								
+<li class><span class="time r">[{date}]</span><a href="{this_link_5}">{this_link_key_5}</a></li>
+	
+<li class><span class="time r">[{date}]</span><a href="{this_link_6}">{this_link_key_6}</a></li>
+	
+<li class><span class="time r">[{date}]</span><a href="{this_link_7}">{this_link_key_7}</a></li>
+	
+<li class><span class="time r">[{date}]</span><a href="{this_link_8}">{this_link_key_8}</a></li>
+						</ul>
+					</div><!--list end-->
+				   </div>
+			<!--**********************-->
+			
+			<!--**********************-->
+			      <div class="alist">
+					<div class="newstitle">
+						<h2><span class="more r"><a href="/mtyd">更多</a></span>媒体云大</h2>
+					</div>
+					<div class="c3list">
+						<ul>
+						  		
+<li><a href="{this_link_9}">{this_link_key_9}</a></li>
+	
+<li><a href="{this_link_10}">{this_link_key_10}</a></li>
+	
+<li><a href="{this_link_11}">{this_link_key_11}</a></li>
+	
+<li><a href="{this_link_12}">{this_link_key_12}</a></li>
+						</ul>
+					</div><!--list end-->
+                  </div>
+				</div>
+			</div>
+		</div> 
+	</div>
+	<!--主体部分结束-->
+	
+<div class="friendlink">
+		<span>友情链接</span><a href="#">{other_link_1}</a><a href="#">{other_link_2}</a><a href="#">{other_link_3}</a><a href="#">{other_link_4}</a><a href="#">{other_link_5}</a><a href="#">{other_link_6}</a><a href="#">{other_link_7}</a><a href="#">{other_link_8}</a><a href="#">{other_link_9}</a>
+   </div><!--friend link-->
+   <div class="footer">
+		Copyright &copy; 2006-2014 云南大学党委宣传部 云南大学新闻中心 版权所有 云南大学新闻网设计开发 
+
+   </div>
+</div><!--main end-->
+</body>
+</html>
